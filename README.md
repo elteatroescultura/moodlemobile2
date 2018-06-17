@@ -1,4 +1,4 @@
-Moodle Mobile 2.x
+Aplicación móvil Oficial del Colegio Italiano de Limache, Chile 2.x
 =================
 
 This is the primary repository of source code for the official Moodle Mobile app version 2.x.
